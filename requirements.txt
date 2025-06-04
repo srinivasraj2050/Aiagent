@@ -10,3 +10,4 @@ plotly==5.18.0
 pandas-datareader==0.10.0
 email-validator==2.1.0
 python-dotenv==1.0.0
+gunicorn
